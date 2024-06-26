@@ -1,0 +1,3 @@
+SELECT * FROM `cidades` WHERE `nome` LIKE '%a';
+SELECT * FROM `cidades` WHERE `nome` LIKE 'a%';
+SELECT * FROM `cidades` WHERE `nome` LIKE '%antonio%';
